@@ -4,4 +4,4 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=IamNayanIslam)
 ![](https://komarev.com/ghpvc/?username=IamNayanIslam&color=blue)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=IamNayanIslam&show_icons=true&count_private=true) 
-[![trophy](https://github-profile-trophy.vercel.app/?username=IamNayanIslam)]
+![trophy](https://github-profile-trophy.vercel.app/?username=IamNayanIslam)
