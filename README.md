@@ -1,2 +1,2 @@
 # Nayan-Islam
-![](https://cdn.dribbble.com/users/946283/screenshots/2871335/media/e849158053f882a118f9178d6be50533.png)
+![](https://cdn.dribbble.com/users/1329713/screenshots/15708827/media/f2d9e2a11ea15db845882c48df3f72c8.jpg?resize=768x576&vertical=center)
